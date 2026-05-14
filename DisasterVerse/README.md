@@ -1,7 +1,7 @@
 
   # DisasterVerse
 
-  This is a code bundle for DisasterVerse. The original project is available at https://www.figma.com/design/oxm3R6BX6nnqpvQhjmq0MY/DisasterVerse.
+  This is a code bundle for DisasterVerse. 
 
   ## Running the code
 
